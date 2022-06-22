@@ -1,0 +1,6 @@
+.idea/
+env/
+onlineShop/db.sqlite3
+onlineShop/images/*
+onlineShop/*/__pycache__/*
+onlineShop/*/*/__pycache__/*
